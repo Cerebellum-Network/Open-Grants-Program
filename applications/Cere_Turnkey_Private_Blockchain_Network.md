@@ -66,7 +66,7 @@ Thanh has years of experience working with various blockchain projects ranging f
 ### Milestone 1
 
 * **Estimated Duration:** 5 weeks 	
-* **Costs:** 1 BTC	
+* **Costs:** 0.8 BTC	
 * **Main Goal:** Basic functionality: Private node, Smart Contract implementation and setup guide.
 
 | Number | Deliverable | Specification | 
@@ -82,7 +82,7 @@ Thanh has years of experience working with various blockchain projects ranging f
 ### Milestone 2
 
 * **Estimated Duration:** 4 weeks 	
-* **Costs:** 0.8 BTC
+* **Costs:** 1 BTC
 
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
