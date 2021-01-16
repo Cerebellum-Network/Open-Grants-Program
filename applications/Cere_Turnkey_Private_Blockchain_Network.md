@@ -97,7 +97,7 @@ Thanh has years of experience working with various blockchain projects ranging f
 
 We will be producing a series of articles/tutorials and publish them on Medium and our community channels to highlight each milestone. More on our marketing strategy:
 
-![Marketing strategy](https://raw.githubusercontent.com/Cerebellum-Network/Cerebellum-Network.github.io/main/925BA0E5-46D0-479D-850D-7AC7647EDCCF.jpeg)
+![Marketing strategy](https://docs.google.com/document/d/1OFLnhllI5hLg_Udr-PtlJwl7gbC8ogb5uJ8YCHqxHGs/edit?usp=sharing)
 
 ## Additional Information :heavy_plus_sign:
 
